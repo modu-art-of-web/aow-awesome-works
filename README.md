@@ -24,7 +24,8 @@ These links are to inspire aow team members
 - http://mattdesl.github.io/codevember/
 - http://www.jam3.com/work
 - https://youtu.be/ws3DKUe5xPE
-
+- https://developer.deeparteffects.com/page/guide
+- http://codedoodl.es/
 
 ### Books
 - http://book.naver.com/bookdb/book_detail.nhn?bid=6984499
