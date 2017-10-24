@@ -26,6 +26,7 @@ These links are to inspire aow team members
 - https://youtu.be/ws3DKUe5xPE
 - https://developer.deeparteffects.com/page/guide
 - http://codedoodl.es/
+- https://github.com/terkelg/awesome-creative-coding#schools--workshops
 
 ### Books
 - http://book.naver.com/bookdb/book_detail.nhn?bid=6984499
